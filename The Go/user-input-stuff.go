@@ -13,7 +13,7 @@ if (username == name || username == name2) {
 } else {
   fmt.Println("Nice to meet you,", username + "!")
 }
-fmt.Println("I'm currently learning C++, Python and GO!")
+fmt.Println("I'm currently learning C++ and GO!")
 fmt.Println("Idk why I'm learning go tbh :sob:")
 fmt.Println("Anyway, take your current time sob")
 fmt.Println(time.Now())
